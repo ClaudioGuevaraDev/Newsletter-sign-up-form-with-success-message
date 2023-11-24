@@ -14,7 +14,7 @@ const resetForm = () => {
     class="w-full max-w-md bg-white rounded-none lg:rounded-xl shadow-lg p-10 space-y-4 h-screen lg:h-auto flex lg:flex-none justify-between flex-col"
   >
     <div class="mt-24 lg:mt-0 space-y-5">
-      <i><img src="/imgs/icon-list.svg" alt="" class="w-14 h-14" /></i>
+      <i><img src="/imgs/icon-success.svg" alt="" /></i>
 
       <h1 class="text-4xl font-bold text-[#242742]">Thanks for subscribing!</h1>
 
