@@ -9,3 +9,7 @@
         font-family: 'Roboto', sans-serif;
     }
 }
+
+html {
+    background-color: hsl(235, 18%, 26%);
+}

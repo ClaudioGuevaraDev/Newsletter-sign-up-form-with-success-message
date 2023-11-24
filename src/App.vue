@@ -7,7 +7,7 @@ const form = useFormStore();
 </script>
 
 <template>
-  <div class="bg-[#242742] w-full h-full min-h-screen flex items-center justify-center">
+  <div class="w-full h-full min-h-screen flex items-center justify-center">
     <Form v-if="form.showForm"/>
 
     <ThanksCard v-else />
